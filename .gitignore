@@ -1,0 +1,107 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+env/
+venv/
+ENV/
+.venv/
+
+# Python virtual environment
+venv/
+
+# Environment variable and key files
+.env
+/cloud_functions/.env
+/cloud_functions/.csv
+/ekyced_customer/.csv
+/cloud_functions/service_account_key.json
+/service_account_key.json
+
+
+# Compiled Python files
+*.py[cod]
+
+# Log files
+*.log
+
+# MacOS-specific files
+.DS_Store
+
+# Byte-compiled Python cache
+__pycache__/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+# Usually these files are written by a python script from a template
+# before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Jupyter Notebook files
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+.envrc
+.venv/
+pyvenv.cfg
+
+# VS Code files
+.vscode/
+
+# IDEs
+.idea/
+*.swp
+
+# MacOS system files
+.DS_Store
