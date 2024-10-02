@@ -17,10 +17,10 @@ venv/
 
 # Environment variable and key files
 .env
-/cloud_functions/.env
-/cloud_functions/.csv
-/ekyced_customer/.csv
-/cloud_functions/service_account_key.json
+/loans_endpoints/.env
+/loans_endpoints/.csv
+/loans_endpoints/.csv
+/loans_endpoints/service_account_key.json
 /service_account_key.json
 
 
